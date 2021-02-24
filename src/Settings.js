@@ -6,8 +6,8 @@ module.exports = {
     PG: {
         host: 'localhost',
         user: 'postgres',
-        password: 'math',
-        database: 'd35',
-        port: 5432,
+        password: 'ilhom55',
+        database: 'mydb...' /* ... === Number */,
+        port: 5000,
     },
 }
