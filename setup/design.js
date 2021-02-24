@@ -1,0 +1,21 @@
+/*
+	
+	src
+
+		Settings.js
+
+		Library
+
+			Database
+
+				Postgres.js
+				Mongo.js
+
+		Modules
+
+			Server
+
+				Server.js
+				Resolvers.js
+				Schema.js
+*/
